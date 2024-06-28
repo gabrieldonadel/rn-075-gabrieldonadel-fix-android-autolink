@@ -2256,6 +2256,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@react-native-segmented-control/segmented-control@npm:^2.5.2":
+  version: 2.5.2
+  resolution: "@react-native-segmented-control/segmented-control@npm:2.5.2"
+  peerDependencies:
+    react: ">=16.0"
+    react-native: ">=0.62"
+  checksum: 6970cb1e3bfdce0df4646d431a9665df73ad56da07330be46834715aead6434132358e40d9c078703a43beff1e268a3079a65ca75658269c9b6df58b18743221
+  languageName: node
+  linkType: hard
+
 "@react-native/assets-registry@npm:0.75.0-rc.2":
   version: 0.75.0-rc.2
   resolution: "@react-native/assets-registry@npm:0.75.0-rc.2"
@@ -2900,6 +2910,7 @@ __metadata:
     "@babel/core": ^7.20.0
     "@babel/preset-env": ^7.20.0
     "@babel/runtime": ^7.20.0
+    "@react-native-segmented-control/segmented-control": ^2.5.2
     "@react-native/babel-preset": 0.75.0-rc.2
     "@react-native/eslint-config": 0.75.0-rc.2
     "@react-native/metro-config": 0.75.0-rc.2
